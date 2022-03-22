@@ -14,14 +14,15 @@ const About = () => {
         </p>
 
         <p>
-            I have a background in Economics, obtaining a BSc and Masters in Economics from the University of Surrey.
+          I have a background in Economics, obtaining a BSc and Masters in
+          Economics from the University of Surrey.
         </p>
         <p>
           I would describe myself as someone who is quite creative, I am
           passionate about videography and photography. My favourite film is The
-          Truman Show (odd I know). I would also I like to say I stay active as
-          I play multiple sports and practice some martial arts. I enjoy
-          travelling and have visited over 20 countries.{" "}
+          Truman Show (odd I know). I would also say I like to stay active as I
+          play multiple sports and practice some martial arts. I enjoy
+          travelling and have visited over 20 countries.
         </p>
       </div>
     </>
