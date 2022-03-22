@@ -16,3 +16,14 @@
   color: white;
   text-align: center;
 }
+.videos {
+  display: inline-flex;
+  /* border: red 1px solid; */
+  position: relative;
+  left: -15rem;
+}
+
+.v1 {
+  /* border: red 1px solid; */
+  padding: 0 1rem;
+}
