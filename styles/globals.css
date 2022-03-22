@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap');
 
 body {
-  /* background: #f2f2f2; */
+  background: #ece2ee;
   color: #333;
   font-family: "Nunito";
-  background-image: url(../public/rainbow-vortex.svg);
+  /* background-image: url(../public/rainbow-vortex.svg); */
   background-repeat: no-repeat;
   background-size: cover;
 
