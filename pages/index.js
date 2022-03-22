@@ -20,8 +20,8 @@ export default function Home() {
           allow="autoplay; encrypted-media"
           allowfullscreen
           title="video"
-          height={480}
-          width={480}
+          height={360}
+          width={360}
         />
         <iframe className={styles.v1}
           src="https://player.vimeo.com/video/663936204?h=fda23bfc0c"
@@ -29,8 +29,8 @@ export default function Home() {
           allow="autoplay; encrypted-media"
           allowfullscreen
           title="video"
-          height={480}
-          width={480}
+          height={360}
+          width={360}
         />
         <iframe
           src="https://player.vimeo.com/video/691142790?h=6da39e9984"
@@ -38,8 +38,8 @@ export default function Home() {
           allow="autoplay; encrypted-media"
           allowfullscreen
           title="video"
-          height={480}
-          width={480}
+          height={360}
+          width={360}
         />
         </div>
         <p className={styles.text}>

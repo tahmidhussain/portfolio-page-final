@@ -1,4 +1,6 @@
 import Head from "next/head";
+import Image from "next/image"
+import styles from "../styles/about.module.css";
 
 const About = () => {
   return (
@@ -24,6 +26,9 @@ const About = () => {
           play multiple sports and practice some martial arts. I enjoy
           travelling and have visited over 20 countries.
         </p>
+        <div className={styles.me}>
+        <Image src="/Tahmid.jpg" width={512} height={384}/>
+      </div>
       </div>
     </>
   );

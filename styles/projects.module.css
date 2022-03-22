@@ -1,3 +1,10 @@
 .a {
     text-decoration: underline;
 }
+
+.gif {
+    display: flex;
+    justify-content: center;
+    /* border: red solid 1px; */
+
+}
