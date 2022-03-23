@@ -27,7 +27,7 @@ const About = () => {
           travelling and have visited over 20 countries.
         </p>
         <div className={styles.me} >
-        <Image className={styles.tahmid} src="/Tahmid.jpg" width={512} height={384}/>
+        <Image className={styles.tahmid} src="/tahmid.JPG" width={512} height={384}/>
       </div>
       </div>
     </>
