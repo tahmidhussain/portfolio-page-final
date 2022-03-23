@@ -11,7 +11,7 @@ export default function Home() {
       <div>
         <h1 className={styles.title}>Homepage</h1>
         <p className={styles.text}>
-          Here are some of the videos I've worked on:
+          Here are some of the videos I shot and edited:
         </p>
         <div className={styles.videos}>
         <iframe

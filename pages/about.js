@@ -26,8 +26,8 @@ const About = () => {
           play multiple sports and practice some martial arts. I enjoy
           travelling and have visited over 20 countries.
         </p>
-        <div className={styles.me}>
-        <Image src="/Tahmid.jpg" width={512} height={384}/>
+        <div className={styles.me} >
+        <Image className={styles.tahmid} src="/Tahmid.jpg" width={512} height={384}/>
       </div>
       </div>
     </>
